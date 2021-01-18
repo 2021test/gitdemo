@@ -1,0 +1,23 @@
+# header: <type>(<scope>): <subject>
+# - type: feat, fix, docs, style, refactor, test, chore
+# feat: 新增feature
+# fix: 修复bug
+# docs: 仅仅修改了文档，如readme.md
+# style: 仅仅是对格式进行修改，如逗号、缩进、空格等。不改变代码逻辑。
+# refactor: 代码重构，没有新增功能或修复bug
+# perf: 优化相关，如提升性能、用户体验等。
+# test: 测试用例，包括单元测试、集成测试。
+# chore: 改变构建流程、或者增加依赖库、工具等。
+# revert: 版本回滚
+# - scope: 可以为空
+# - subject: 以动词（例如“ change”）开头，长度为50个字符
+#
+# 正文：包含72个字符。 这应该回答：
+# * 为什么需要进行此更改？可能是用来修复一个bug，增加一个feature，提升性能、可靠性、稳定性等等
+# * 如何解决这个问题？描述解决问题的步骤
+# * 是否存在副作用、影响？
+#
+# footer:
+# - 包括问题的链接。
+# - 突破性变化
+#
